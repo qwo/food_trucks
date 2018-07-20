@@ -8,7 +8,7 @@ gem "geocoder", "~> 1.1.8"
 gem "inherited_resources", "~> 1.4.0"
 gem "jquery-rails"
 gem "parkeon", "~> 0.0.3"
-gem "rack-cors", "~> 0.2.8", require: 'rack/cors'
+gem "rack-cors", "0.4.1"
 gem "ransack", "~> 0.7.2"
 gem "rails", "~> 3.2.13"
 
